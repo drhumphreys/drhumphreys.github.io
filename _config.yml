@@ -55,8 +55,8 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /research
-Life: /media
+Research: /research
+Media: /media
 
 # Add general links to site pages here
 links:
