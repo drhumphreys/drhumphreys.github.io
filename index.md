@@ -4,27 +4,25 @@ title: Hello
 ---
 
 
-## An easy to use, minimal, text focused Jekyll theme
+## Dr Declan Humphreys, Philosopher of Technology
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+[This is me]([https://www.unisc.edu.au/people/dr-declan-humphreys]) is *"a blogging platform where words matter most"*. 
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+Hi. I am a philosopher of technology. I mostly think about things to do with AI and ethics.
 
-**Stop worrying about the style, focus on your writing.**
+I lecture in cyber security and ethics at the University of the Sunshine Coast, Australia. 
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
+I run a [blog on technology and ethics](ethicsdot.substack.com), and have appeared on radio. In 2025 I was fortunate to be selected for the prestigious ABC Top 5 Humanities Media Residency program.
 
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+**Here are some of my research interests.**
 
-#### New: Life in Weeks Interactive Timeline
+- AI bias and sycophancy
+- moral responsibility of AI in business
+- epistemic harms of generative AI
+- AI deathbots
+- ethics of pricing algorithms
 
-- Visualize your life weeks, inspired by [Wait But Why](https://waitbutwhy.com/2014/05/life-weeks.html) and [Buster Benson](https://busterbenson.com/life-in-weeks/) and cycle through key events with up/down arrows.
+#### I have some exiting things coming up
 
-Try it on the [Life in Weeks](https://knhash.in/jekyllBear/life) page!
+
+- some other places you can find me [LinkedIN](https://www.linkedin.com/in/declan-humphreys/) [BluSky](https://bsky.app/profile/dhump.bsky.social), [ORCID](https://orcid.org/0009-0008-2693-7340).
