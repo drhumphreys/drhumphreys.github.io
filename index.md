@@ -6,11 +6,11 @@ title: Hello
 
 ## Dr Declan Humphreys, Philosopher of Technology
 
-[This is me]([https://www.unisc.edu.au/people/dr-declan-humphreys]) is *"a blogging platform where words matter most"*. 
+![Dr Humphreys](/assets/images/dhumphreys.jpg)
 
 Hi. I am a philosopher of technology. I mostly think about things to do with AI and ethics.
 
-I lecture in cyber security and ethics at the University of the Sunshine Coast, Australia. 
+I lecture in [cyber security and ethics](https://www.unisc.edu.au/people/dr-declan-humphreys) at the University of the Sunshine Coast, Australia. 
 
 I run a [blog on technology and ethics](ethicsdot.substack.com), and have appeared on radio. In 2025 I was fortunate to be selected for the prestigious ABC Top 5 Humanities Media Residency program.
 
