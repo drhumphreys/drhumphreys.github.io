@@ -12,9 +12,11 @@ Hi. I am a philosopher of technology. I mostly think about things to do with AI 
 
 I lecture in [cyber security and ethics](https://www.unisc.edu.au/people/dr-declan-humphreys) at the University of the Sunshine Coast, Australia. 
 
-I run a [blog on technology and ethics](ethicsdot.substack.com), and have appeared on radio. In 2025 I was fortunate to be selected for the prestigious ABC Top 5 Humanities Media Residency program.
+I run a [blog on technology and ethics](ethicsdot.substack.com), and have appeared on radio. 
 
-**Here are some of my research interests.**
+In 2025 I was fortunate to be selected for the prestigious [ABC Top 5 Humanities Media Residency](https://www.abc.net.au/listen/programs/top5/top5-winners-2025/105435578) program.
+
+**My research areas of interest.**
 
 - AI bias and sycophancy
 - moral responsibility of AI in business
