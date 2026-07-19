@@ -8,6 +8,8 @@ title: Hello
 
 ![Dr Humphreys](/assets/images/dhumphreys.jpg)
 
+<img src="/assets/images/dhumphreys.jpg" alt="Dr Humphreys" width="180" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+
 Hi. I am a philosopher of technology. I mostly think about things to do with AI and ethics.
 
 I lecture in [cyber security and ethics](https://www.unisc.edu.au/people/dr-declan-humphreys) at the University of the Sunshine Coast, Australia. 
