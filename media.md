@@ -15,7 +15,9 @@ I think it is important to engage with media. In 2025 I was selected for the pre
 - **Podcast:** [Imagining the future — sci-fi, doomsday preppers and hope punks](https://www.abc.net.au/listen/programs/soul-search/imagining-the-future-sci-fi-doomsday-preppers-and-hope-punks/105872094) (23 Oct 2025). *Soul Search*, ABC Radio National. Producer.
   
 - **Podcast:** [Is God in the machine?](https://www.abc.net.au/listen/programs/godforbid/god-forbid/105576214) (9 Aug 2025). *God Forbid*, ABC Radio National. Panelist.
+
 - **Article:** [AI free from bias and ideology is a fantasy – humans can't organise data without distorting reality](https://theconversation.com/ai-free-from-bias-and-ideology-is-a-fantasy-humans-cant-organise-data-without-distorting-reality-262523) (19 Aug 2025). *The Conversation*.
+  
 - **Radio:** [Is AI free from bias and ideology?](https://omny.fm/shows/overnight-with-michael-mclaren/is-ai-free-from-bias-and-ideology) (27 Aug 2025). *Australia Overnight*, 2GB Sydney.
 
 
