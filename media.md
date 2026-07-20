@@ -23,8 +23,12 @@ I think it is important to engage with media. In 2025 I was selected for the pre
 - **Radio:** [Is AI free from bias and ideology?](https://omny.fm/shows/overnight-with-michael-mclaren/is-ai-free-from-bias-and-ideology) (27 Aug 2025). *Australia Overnight*, 2GB Sydney.
 
 
-Watch and Listen
+## Watch and Listen
+
+**Soul Search — Imagining the future: sci-fi, doomsday preppers and hope punks**
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/au/podcast/imagining-the-future-sci-fi-doomsday-preppers-and/id75423045?i=1000733089547"></iframe>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/TopVMo2WWUg?si=pXWHEQD9K7Iz902g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Phinance — Is the pursuit of money incompatible with morality? (with Adrian Walsh)**
+
+<iframe width="100%" height="315" style="max-width:660px;" src="https://www.youtube.com/embed/TopVMo2WWUg?si=pXWHEQD9K7Iz902g" title="Is the Pursuit of Money Incompatible with Morality?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
