@@ -13,6 +13,7 @@ url: "https://drhumphreys.github.io" # the base hostname & protocol for your sit
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 whitelist:
   - jekyll-redirect-from
