@@ -8,6 +8,8 @@ I think it is important to engage with media. In 2025 I was selected for the pre
 
 - **Opinion Article** with Tatiana Bur [Technology and religion have been intertwined for millennia — so what’s different about AI?](https://www.abc.net.au/religion/technology-and-religion-intertwined-for-millennia-ai/106406710) (5 March 2026). *ABC Religion and Ethics*.
 
+- **Podcast:** [Can video games be part of the good life?](https://www.abc.net.au/listen/programs/soul-search/can-video-games-be-part-of-the-good-life/106220298) (22 January 2026). *Soul Search*, ABC Radio National. Interviewee.
+
 - **In Conversation** ['Is the Pursuit of Money Incompatible with Morality? - Adrian Walsh @ InConversation](https://youtu.be/TopVMo2WWUg) *Phinance - the Philosophy and Finance Network*, YouTube.
 
 - **Podcast:** [Is it possible for an AI to 'hasten the coming of Christ's return'?](https://www.abc.net.au/listen/programs/downloadthisshow/gloo-ai-father-justin-way-the-future-theology-technology/105872222) (14 Nov 2025). *Download This Show*, ABC Radio National. Panelist.
@@ -24,6 +26,6 @@ I think it is important to engage with media. In 2025 I was selected for the pre
 Watch and Listen
 
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3kMnmgBVw3K2hLrVkcujSJ?utm_source=generator&si=aeac011212c14de9" width="50%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3kMnmgBVw3K2hLrVkcujSJ?utm_source=generator&si=aeac011212c14de9" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TopVMo2WWUg?si=pXWHEQD9K7Iz902g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
