@@ -17,3 +17,8 @@ I think it is important to engage with media. In 2025 I was selected for the pre
 - **Podcast:** [Is God in the machine?](https://www.abc.net.au/listen/programs/godforbid/god-forbid/105576214) (9 Aug 2025). *God Forbid*, ABC Radio National. Panelist.
 - **Article:** [AI free from bias and ideology is a fantasy – humans can't organise data without distorting reality](https://theconversation.com/ai-free-from-bias-and-ideology-is-a-fantasy-humans-cant-organise-data-without-distorting-reality-262523) (19 Aug 2025). *The Conversation*.
 - **Radio:** [Is AI free from bias and ideology?](https://omny.fm/shows/overnight-with-michael-mclaren/is-ai-free-from-bias-and-ideology) (27 Aug 2025). *Australia Overnight*, 2GB Sydney.
+
+
+Watch below
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TopVMo2WWUg?si=pXWHEQD9K7Iz902g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
