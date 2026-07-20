@@ -21,6 +21,10 @@ I think it is important to engage with media. In 2025 I was selected for the pre
 - **Radio:** [Is AI free from bias and ideology?](https://omny.fm/shows/overnight-with-michael-mclaren/is-ai-free-from-bias-and-ideology) (27 Aug 2025). *Australia Overnight*, 2GB Sydney.
 
 
-Watch below
+Watch and Listen
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TopVMo2WWUg?si=pXWHEQD9K7Iz902g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3kMnmgBVw3K2hLrVkcujSJ?utm_source=generator&si=aeac011212c14de9" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
