@@ -25,6 +25,6 @@ I think it is important to engage with media. In 2025 I was selected for the pre
 
 Watch and Listen
 
-
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/au/podcast/imagining-the-future-sci-fi-doomsday-preppers-and/id75423045?i=1000733089547"></iframe>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/TopVMo2WWUg?si=pXWHEQD9K7Iz902g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
