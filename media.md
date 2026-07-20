@@ -8,7 +8,7 @@ I think it is important to engage with media. In 2025 I was selected for the pre
 
 - **Podcast:** [Is it possible for an AI to 'hasten the coming of Christ's return'?](https://www.abc.net.au/listen/programs/downloadthisshow/gloo-ai-father-justin-way-the-future-theology-technology/105872222) (14 Nov 2025). *Download This Show*, ABC Radio National. Panelist.
 
-<img src="/assets/images/image.jpg" alt="ABC" width="180" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+<img src="/assets/images/image.png" alt="ABC" width="180" style="float: right; margin-left: 20px; margin-bottom: 10px;">
   
 - **Podcast:** [Imagining the future — sci-fi, doomsday preppers and hope punks](https://www.abc.net.au/listen/programs/soul-search/imagining-the-future-sci-fi-doomsday-preppers-and-hope-punks/105872094) (23 Oct 2025). *Soul Search*, ABC Radio National. Producer.
   
