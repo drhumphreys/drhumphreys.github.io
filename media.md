@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media
-permalink: /media/
+permalink: /media
 ---
 
 I think it is important to engage with media. In 2025 I was selected for the prestigious ABC Top 5 Humanities Media Residency program.
