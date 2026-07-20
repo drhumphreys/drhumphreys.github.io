@@ -26,5 +26,6 @@ In 2025 I was fortunate to be selected for the prestigious [ABC Top 5 Humanities
 
 #### I have some exiting things coming up
 
+You can email me dhumphreys[at]usc[dot]edu[dot]au
 
 - some other places you can find me [LinkedIN](https://www.linkedin.com/in/declan-humphreys/) [BluSky](https://bsky.app/profile/dhump.bsky.social), [ORCID](https://orcid.org/0009-0008-2693-7340).
