@@ -6,7 +6,7 @@ permalink: /media
 
 I think it is important to engage with media. In 2025 I was selected for the prestigious ABC Top 5 Humanities Media Residency program.
 
-- **Opinion Article** With Tatiana Bur [Technology and religion have been intertwined for millennia — so what’s different about AI?](https://www.abc.net.au/religion/technology-and-religion-intertwined-for-millennia-ai/106406710) (5 March 2026). *ABC Religion and Ethics*.
+- **Opinion Article** with Tatiana Bur [Technology and religion have been intertwined for millennia — so what’s different about AI?](https://www.abc.net.au/religion/technology-and-religion-intertwined-for-millennia-ai/106406710) (5 March 2026). *ABC Religion and Ethics*.
 
 
 - **Podcast:** [Is it possible for an AI to 'hasten the coming of Christ's return'?](https://www.abc.net.au/listen/programs/downloadthisshow/gloo-ai-father-justin-way-the-future-theology-technology/105872222) (14 Nov 2025). *Download This Show*, ABC Radio National. Panelist.
